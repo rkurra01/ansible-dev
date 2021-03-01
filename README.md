@@ -1,6 +1,7 @@
 # ansible-dev (Project Title)
  
- Ansible development practice
+ Ansible development practice.
+ Wanting to learn how to verion control project with git.
  
  ## Getting Started
  
